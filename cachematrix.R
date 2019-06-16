@@ -1,4 +1,4 @@
-## `makeCacheMatrix`function creates a special "matrix"    
+## `makeCacheMatrix`function creates a special "matrix" object that can cache its inverse.
 ## `cacheSolve` function cimputes inverse of `makeCacheMatrix`function and retrieves the inverse from the cache
 
 ## `makeCacheMatrix`function creates a special "matrix" object that can cache its inverse.    
